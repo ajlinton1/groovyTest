@@ -10,15 +10,16 @@ class JavaService {
     public int process()
     {
         System.out.println("Processing");
-        helperMethod();
-        return 1;
+        int ret = helperMethod();
+        return ret;
     }
 
-    public void helperMethod()
+    public int helperMethod()
     {
         System.out.println("Real helper method");
         int t = helperMethod1();
         System.out.println(t);
+        return t;
     }
 
     public int helperMethod1()

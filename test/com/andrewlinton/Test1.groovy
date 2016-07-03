@@ -26,22 +26,23 @@ class Test1 extends GroovyTestCase
 
     void testExpando()
     {
-        def emc = new ExpandoMetaClass(JavaService, true);
+        def emc = new ExpandoMetaClass(JavaServiceMock, true);
         emc.helperMethod1 = {
             -> 2
         }
         emc.initialize();
-        def javaService = new JavaService();
+        def javaService = new JavaServiceMock();
         def result = javaService.process();
-        assertEquals(1, result);
+        assertEquals(2, result);
     }
 
 }
 
 class JavaServiceMock extends JavaService
 {
-    public void helperMethod()
+    public int helperMethod()
     {
         println("Mock helper method");
+        return helperMethod1();
     }
 }
