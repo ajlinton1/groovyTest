@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6852bfb7-54ec-4031-8750-5ea2bb1d479e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GroovyTest/com/andrewlinton/JavaService.class" afterPath="$PROJECT_DIR$/out/production/GroovyTest/com/andrewlinton/JavaService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/GroovyTest/com/andrewlinton/JavaServiceMock.class" afterPath="$PROJECT_DIR$/out/test/GroovyTest/com/andrewlinton/JavaServiceMock.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/GroovyTest/com/andrewlinton/Test1.class" afterPath="$PROJECT_DIR$/out/test/GroovyTest/com/andrewlinton/Test1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/andrewlinton/JavaService.java" afterPath="$PROJECT_DIR$/src/com/andrewlinton/JavaService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/andrewlinton/Test1.groovy" afterPath="$PROJECT_DIR$/test/com/andrewlinton/Test1.groovy" />
     </list>
     <ignored path="GroovyTest.iws" />
@@ -46,8 +41,8 @@
       <file leaf-file-name="Test1.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/andrewlinton/Test1.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="26" column="15" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="79">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -784,22 +779,13 @@
       <option name="presentableId" value="Default" />
       <updated>1467510019343</updated>
       <workItem from="1467510025556" duration="5869000" />
-      <workItem from="1467519766720" duration="1098000" />
+      <workItem from="1467519766720" duration="1389000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="Test1 - 2016.07.02 at 21h 25m 57s.xml">
       <configuration name="Test1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test1_testExpando - 2016.07.02 at 20h 37m 12s.xml">
-      <configuration name="Test1.testExpando" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test1_testExpando - 2016.07.02 at 20h 40m 19s.xml">
-      <configuration name="Test1.testExpando" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test1_testExpando - 2016.07.02 at 20h 41m 07s.xml">
-      <configuration name="Test1.testExpando" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Test1_testExpando - 2016.07.02 at 20h 42m 04s.xml">
       <configuration name="Test1.testExpando" configurationId="JUnit" />
@@ -816,12 +802,21 @@
     <history-entry file="Test1_testExpando - 2016.07.02 at 21h 49m 46s.xml">
       <configuration name="Test1.testExpando" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Test1_testExpando - 2016.07.02 at 21h 50m 36s.xml">
+      <configuration name="Test1.testExpando" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_testExpando - 2016.07.02 at 21h 53m 29s.xml">
+      <configuration name="Test1.testExpando" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_testExpando - 2016.07.02 at 21h 54m 35s.xml">
+      <configuration name="Test1.testExpando" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="Test1_testMock - 2016.07.02 at 21h 27m 45s.xml">
       <configuration name="Test1.testMock" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6967000" />
+    <option name="totallyTimeSpent" value="7258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -835,7 +830,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41167194" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -845,7 +840,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -875,15 +870,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/com/andrewlinton/Test1.groovy</url>
-          <line>28</line>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/com/andrewlinton/Test1.groovy</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/com/andrewlinton/Test1.groovy</url>
@@ -1013,8 +1002,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/andrewlinton/Test1.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="79">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="20" />
           <folding />
         </state>
       </provider>
